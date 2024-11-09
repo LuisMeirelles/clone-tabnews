@@ -1,0 +1,8 @@
+.dockerignore
+.git/
+.gitignore
+.idea/
+Dockerfile
+README.md
+compose.yml
+node_modules/
