@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Lorem Ipsum</h1>
+    return <h1>Outra frase</h1>
 }
 
 export default Home;
